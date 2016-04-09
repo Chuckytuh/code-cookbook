@@ -18,7 +18,7 @@ Flash | No
 
 ### Check if FileSystem is available
 
-You can savely access the `sys`-package if you wrap the code with [conditional compilation](http://haxe.org/manual/lf-condition-compilation.html):
+You can safely access the `sys`-package if you wrap the code with [conditional compilation](http://haxe.org/manual/lf-condition-compilation.html):
   
 ```haxe
 #if sys
